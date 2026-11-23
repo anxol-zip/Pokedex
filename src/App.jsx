@@ -129,7 +129,7 @@ function App() {
   // ===== Interfaz principal =====
   return (
     <>
-      <h1>Pokédex</h1>
+      <h1>Pokédex (desde Vercel)</h1>
 
       {/* Barra de búsqueda: onSubmit funciona con el botón y también con Enter */}
       <form className="search" onSubmit={handleSearch}>
